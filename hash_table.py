@@ -12,7 +12,7 @@ def char_count(a_string: str)-> dict:
 
 
 ## challenge
-def duplicate_delete(sentence: str):
+def duplicate_delete(sentence: str)-> str:
     word_list = re.split('[ .]', sentence)
     a_dict = {}
     out_list = []
