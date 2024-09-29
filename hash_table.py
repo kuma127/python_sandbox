@@ -17,7 +17,7 @@ def duplicate_delete(sentence: str)-> str:
     a_dict = {}
     out_list = []
     for index, a_string in enumerate(word_list):
-        if not a_string in a_dict:
+        if a_string not in a_dict:
             out_list.append(a_string)
             a_dict[a_string] = index
 

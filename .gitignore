@@ -130,3 +130,6 @@ dmypy.json
 
 # local
 .python_sandbox/
+iframe_figures/
+memo.html
+*_memo.md
