@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150">
+  <rect width="200" height="150" fill="#f06292"/>
+  <text x="100" y="85" text-anchor="middle" font-size="16" fill="#fff">タオル</text>
+</svg>

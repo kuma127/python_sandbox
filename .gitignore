@@ -133,3 +133,4 @@ dmypy.json
 iframe_figures/
 memo.html
 *_memo.md
+data.db
